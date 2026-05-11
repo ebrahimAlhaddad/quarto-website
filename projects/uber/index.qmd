@@ -1,0 +1,21 @@
+---
+title: "Uber Price Elasticity via Exogenous Shock"
+subtitle: "Using congestion pricing policy as exogenous shock to estimate causal price elasticity of rideshare demand under policy conditions"
+author: "Ebrahim Alhaddad"
+date: "March 15, 2025"
+image: uber-slide1.png
+format:
+  html:
+    toc: true
+    number-sections: true
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+## Deck
+{{< pdf uber.pdf width=100% height=500 >}}
+
+## Github
+[View repository on GitHub](https://github.com/ebrahimAlhaddad/price-elasticity)

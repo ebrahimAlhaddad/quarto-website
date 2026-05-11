@@ -98,6 +98,34 @@
     "text": "Conclusion\nThis simulated A/B test brings several core ideas from frequentist statistics into one concrete example. The LLN explains why estimates stabilize with more data. The bootstrap provides a practical way to estimate standard errors and confidence intervals. The CLT explains why Normal-based inference becomes reasonable in large samples. Hypothesis testing translates uncertainty into a formal decision rule. Regression reveals that the familiar difference-in-means test is part of a broader modeling framework. And the peeking simulation shows how easy it is to inflate false positives when experimental discipline breaks down.\nMost importantly, the assignment shows that A/B testing is not just a business tool. It is also a statistical problem. Randomized experiments produce noisy data, and frequentist methods give us a principled way to estimate treatment effects, quantify uncertainty, and avoid being fooled by random variation."
   },
   {
+    "objectID": "projects/uber/index.html",
+    "href": "projects/uber/index.html",
+    "title": "Uber Price Elasticity via Exogenous Shock",
+    "section": "",
+    "text": "Download PDF file."
+  },
+  {
+    "objectID": "projects/uber/index.html#deck",
+    "href": "projects/uber/index.html#deck",
+    "title": "Uber Price Elasticity via Exogenous Shock",
+    "section": "",
+    "text": "Download PDF file."
+  },
+  {
+    "objectID": "projects/uber/index.html#github",
+    "href": "projects/uber/index.html#github",
+    "title": "Uber Price Elasticity via Exogenous Shock",
+    "section": "2 Github",
+    "text": "2 Github\nView repository on GitHub"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "My Resume",
+    "section": "",
+    "text": "Download PDF file."
+  },
+  {
     "objectID": "projects/hw2/index.html",
     "href": "projects/hw2/index.html",
     "title": "Replication of Card and Krueger (1994)",
@@ -131,13 +159,6 @@
     "title": "Replication of Card and Krueger (1994)",
     "section": "4 Conclusion",
     "text": "4 Conclusion\nThe results here line up closely with the original paper.\nI reproduced the main findings from Card and Krueger (1994) using only Python and the public fast-food survey data:\n\nThe descriptive means in Table 2 match the paper closely.\nThe balanced-sample difference-in-differences estimate from Table 3 is about +2.75 FTE workers, essentially identical to the paper’s +2.76.\nThe regression estimate from Table 4, column (i) is 2.33 with a standard error of 1.19, which matches the published result.\n\nOverall, the replicated evidence supports the paper’s headline conclusion: the 1992 New Jersey minimum wage increase did not reduce fast-food employment relative to Pennsylvania."
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "My Resume",
-    "section": "",
-    "text": "Download PDF file."
   },
   {
     "objectID": "projects/recommend/index.html",
@@ -235,6 +256,6 @@
     "href": "projects.html",
     "title": "My Projects",
     "section": "",
-    "text": "A/B Testing a Call to Action\n\n\n\nEbrahim Alhaddad\n\n\nApr 15, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nAirline Crashes Event Study\n\n\n\nEbrahim Alhaddad\n\n\nDec 15, 2025\n\n\n\n\n\n\n\n\n\n\n\nReplication of Card and Krueger (1994)\n\n\n\nEbrahim Alhaddad\n\n\nMay 10, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nTop-N Research Paper Recommender System\n\n\n\nEbrahim Alhaddad\n\n\nDec 15, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nUplift modeling for an ads campaign\n\n\n\nEbrahim Alhaddad\n\n\nMar 15, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "A/B Testing a Call to Action\n\n\n\nEbrahim Alhaddad\n\n\nApr 15, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nAirline Crashes Event Study\n\n\n\nEbrahim Alhaddad\n\n\nDec 15, 2025\n\n\n\n\n\n\n\n\n\n\n\nReplication of Card and Krueger (1994)\n\n\n\nEbrahim Alhaddad\n\n\nMay 10, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nTop-N Research Paper Recommender System\n\n\n\nEbrahim Alhaddad\n\n\nDec 15, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nUber Price Elasticity via Exogenous Shock\n\n\n\nEbrahim Alhaddad\n\n\nMar 15, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nUplift modeling for an ads campaign\n\n\n\nEbrahim Alhaddad\n\n\nMar 15, 2025\n\n\n\n\n\n\nNo matching items"
   }
 ]
