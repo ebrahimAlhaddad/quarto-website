@@ -1,0 +1,22 @@
+---
+title: "Top-N Research Paper Recommender System"
+subtitle: "Exploring different techniques to build a ranking recommender system for paper-author implicit dataset"
+author: "Ebrahim Alhaddad"
+date: "Dec 15, 2025"
+image: recommend.png
+format:
+  html:
+    toc: true
+    number-sections: true
+execute:
+  echo: true
+  warning: false
+  message: false
+
+---
+
+## Deck
+{{< pdf recommend.pdf width=100% height=450 >}}
+
+## Github
+[View repository on GitHub](https://github.com/ebrahimAlhaddad/recommender-system)

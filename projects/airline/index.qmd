@@ -1,0 +1,25 @@
+---
+title: "Airline Crashes Event Study"
+subtitle: "Event study analysis of airline crashes and impact on airlines & manufacturers' stock performance"
+author: "Ebrahim Alhaddad"
+date: "Dec 15, 2025"
+image: airline.png
+
+format:
+  html:
+    toc: true
+    number-sections: true
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+## Presentation
+{{< video https://youtu.be/XJM9t-dbRZA >}}
+
+## Deck
+{{< pdf airline.pdf width=100% height=450 >}}
+
+## Github
+[View repository on GitHub](https://github.com/ebrahimAlhaddad/airline-event-study)

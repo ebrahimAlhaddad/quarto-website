@@ -1,0 +1,26 @@
+---
+title: "Ebrahim Alhaddad"
+image: "files/untitled.jpg"
+about:
+  template: jolla
+  links:
+    - icon: envelope
+      href: mailto:efalhadd@gmail.com
+    - icon: linkedin
+      href: https://www.linkedin.com/in/efalhadd/
+---
+
+::: {.hero}
+
+# Welcome to my website!!
+
+Hello! I’m **Ebrahim Alhaddad**, an analytics-focused software engineer and MSBA candidate at UC San Diego.
+
+My work sits at the intersection of software engineering, data analytics, and business problem-solving.
+
+This portfolio highlights selected projects, technical writeups, and analytics work, exploring different ways to turn messy data into clear decision-ready insights
+
+
+[Explore my projects](projects.qmd){.btn .btn-primary}
+
+:::

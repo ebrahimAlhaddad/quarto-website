@@ -1,0 +1,14 @@
+[
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/hw1/index.html",
+      "/projects/airline/index.html",
+      "/projects/hw2/index.html",
+      "/projects/recommend/index.html",
+      "/projects/uber/index.html",
+      "/projects/uplift/uplift_summ.html",
+      "/projects/uplift/index.html"
+    ]
+  }
+]

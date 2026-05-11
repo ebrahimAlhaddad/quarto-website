@@ -1,0 +1,18 @@
+---
+title: "Uplift modeling for an ads campaign"
+subtitle: "Exploring the difference between propensity and uplift modeling using treatment effects in an ads campaign"
+author: "Ebrahim Alhaddad"
+date: "March 15, 2025"
+image: uplift.png
+format:
+  html:
+    toc: true
+    number-sections: true
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+
+{{< embed uplift_summ.ipynb echo=true >}}
