@@ -15,4 +15,4 @@ execute:
 ---
 
 
-{{< embed uplift_summ.ipynb echo=true >}}
+{{< embed ../../_notebook/uplift_summ.ipynb echo=true >}}
