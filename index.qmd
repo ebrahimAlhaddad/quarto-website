@@ -14,11 +14,11 @@ about:
 
 # Welcome to my website!!
 
-Hello! I’m **Ebrahim Alhaddad**, an analytics-focused software engineer and MSBA candidate at UC San Diego.
+Hello! I’m **Ebrahim Alhaddad**, a software engineer and MSBA candidate at UC San Diego.
 
-My work sits at the intersection of software engineering, data analytics, and business problem-solving.
+This site is mainly dedicated to my work in the analytics domain, including projects, technical writeups, and experiments involving data, search, evaluation, and business problem-solving.
 
-This portfolio highlights selected projects, technical writeups, and analytics work, exploring different ways to turn messy data into clear decision-ready insights
+While analytics is not the only area I work in, it is a space I’m actively exploring through my MSBA and technical projects. My broader background sits at the intersection of software engineering, data analytics, AI/search workflows, and customer-facing problem-solving.
 
 
 [Explore my projects](projects.qmd){.btn .btn-primary}
